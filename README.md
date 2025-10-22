@@ -13,6 +13,8 @@ The project was built using Angular, NestJS, Azure services and Heroku, with aut
 
 I eventually abandoned the project since I wasn’t interested in marketing it further, but it was a great learning experience.
 
+Live demo is still avaliable [here](https://roomcodes.com).
+
 [Frontend repo](https://github.com/simonsambolec/room-codes-frontend)\
 [Backend repo](https://github.com/simonsambolec/room-codes-backend)
 
