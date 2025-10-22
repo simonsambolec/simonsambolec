@@ -33,3 +33,8 @@ Hydrant Manager is a web application developed as my diploma project in 2023. It
 
 [Frontend repo](https://github.com/simonsambolec/hidranti-web)\
 [Backend repo](https://github.com/simonsambolec/hidranti-backend)
+
+### Food Delivery Exercise
+Very small backend project developed in NestJS to demonstrate my coding style.
+
+[Backend repo](https://github.com/simonsambolec/food-delivery)
