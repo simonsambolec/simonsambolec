@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Welcome to my GitHub.\
-You can find my CV [here](https://simonsambolec.github.io/simonsambolec/Simon_Sambolec_CV.pdf).
 
 ## My Projects
 
